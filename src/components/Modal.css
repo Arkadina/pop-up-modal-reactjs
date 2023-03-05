@@ -1,0 +1,15 @@
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 40px;
+    right: 100px;
+    height: 50px;
+    padding: 10px 20px;
+    width: 200px;
+    font-weight: 600;
+    background-color: #646cff;
+    border-radius: 4px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
